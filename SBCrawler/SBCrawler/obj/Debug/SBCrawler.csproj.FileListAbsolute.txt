@@ -1,0 +1,9 @@
+D:\Projects\Crawlers\SBCrawler\SBCrawler\bin\Debug\SBCrawler.exe.config
+D:\Projects\Crawlers\SBCrawler\SBCrawler\bin\Debug\SBCrawler.exe
+D:\Projects\Crawlers\SBCrawler\SBCrawler\bin\Debug\SBCrawler.pdb
+D:\Projects\Crawlers\SBCrawler\SBCrawler\bin\Debug\HtmlAgilityPack.dll
+D:\Projects\Crawlers\SBCrawler\SBCrawler\bin\Debug\HtmlAgilityPack.pdb
+D:\Projects\Crawlers\SBCrawler\SBCrawler\bin\Debug\HtmlAgilityPack.xml
+D:\Projects\Crawlers\SBCrawler\SBCrawler\obj\Debug\SBCrawler.csprojResolveAssemblyReference.cache
+D:\Projects\Crawlers\SBCrawler\SBCrawler\obj\Debug\SBCrawler.exe
+D:\Projects\Crawlers\SBCrawler\SBCrawler\obj\Debug\SBCrawler.pdb
